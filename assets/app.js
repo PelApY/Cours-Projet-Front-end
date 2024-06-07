@@ -5,8 +5,8 @@
 // // get => Méthode du SDK pour récupérer ici les repos
 // octokit.rest.repos
 //     .get({
-//         owner:"charline-studi",
-//         repo:"2405-projet-front",
+//         owner:"PelApY",
+//         repo:"Cours-Projet-Front-end",
 //     })
 //     .then(({ data }) => {
 //         console.log("Repo récupéré", data)
